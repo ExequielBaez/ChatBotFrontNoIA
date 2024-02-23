@@ -1,0 +1,114 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512474193@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A88970042D1AF60573',
+    participant: undefined
+  },
+  messageTimestamp: 1708725575,
+  pushName: 'Exequiel',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5493512474193'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2a08213f-781f-49aa-ae08-9e4b6828fcef',
+  keyword: 'key_83b829e7-66cd-4749-b3a9-be0f74997dc6',
+  answer: '🙌 Hola bienvenido escribe turnos para ver disponibilidad',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '765d052384213be133f3258dee02d42b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512474193@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB060C734C3727BBEAC13',
+    participant: undefined
+  },
+  messageTimestamp: 1708725580,
+  pushName: 'Exequiel',
+  broadcast: false,
+  message: Message {
+    conversation: 'turnos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'turnos',
+  from: '5493512474193'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0f7178e5-5799-4462-ab14-cb4046139ad6',
+  keyword: 'key_3ed7bde8-e446-46ac-b4fc-7114b308ac5c',
+  answer: 'Consultando turnos disponibles!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c1097e3a4a73c6bfd195667fbc899a02'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_24279688-be43-4c2a-a3b6-90c7b6dc1eb5',
+  keyword: 'ans_0f7178e5-5799-4462-ab14-cb4046139ad6',
+  answer: 'Selecciona un turno escribiendo su codigo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '19ad4466bae74a476600874b41b444e3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512474193@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0652DC5102DF7F0F2DA',
+    participant: undefined
+  },
+  messageTimestamp: 1708725587,
+  pushName: 'Exequiel',
+  broadcast: false,
+  message: Message {
+    conversation: 'sd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'sd',
+  from: '5493512474193'
+}

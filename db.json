@@ -1,0 +1,135 @@
+[
+  {
+    "ref": "9abbc8ed-0df6-4eba-ae72-6aac86a2baf9",
+    "keyword": "de7d5dbec0696e4050a999f86fbadf9c",
+    "answer": "hola",
+    "options": {},
+    "from": "5493512474193",
+    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
+  },
+  {
+    "ref": "ans_2a08213f-781f-49aa-ae08-9e4b6828fcef",
+    "keyword": "key_83b829e7-66cd-4749-b3a9-be0f74997dc6",
+    "answer": "🙌 Hola bienvenido escribe turnos para ver disponibilidad",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "765d052384213be133f3258dee02d42b",
+    "from": "5493512474193"
+  },
+  {
+    "ref": "1b945a91-ef69-4d77-8b8d-ee672aabdaa2",
+    "keyword": "765d052384213be133f3258dee02d42b",
+    "answer": "turnos",
+    "options": {},
+    "from": "5493512474193",
+    "refSerialize": "3982c64d95c2a17546911ce641f0c4a4"
+  },
+  {
+    "ref": "ans_0f7178e5-5799-4462-ab14-cb4046139ad6",
+    "keyword": "key_3ed7bde8-e446-46ac-b4fc-7114b308ac5c",
+    "answer": "Consultando turnos disponibles!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "c1097e3a4a73c6bfd195667fbc899a02",
+    "from": "5493512474193"
+  },
+  {
+    "ref": "bcd3ee57-dea9-4e89-a724-ff5bc1d76635",
+    "keyword": null,
+    "answer": "LUNES / OCHO",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493512474193",
+    "refSerialize": "bcd18717a5c89d681a2d004376a6ec75"
+  },
+  {
+    "ref": "9ed4021a-3c15-472c-bf31-83ee8d1d86e5",
+    "keyword": null,
+    "answer": "LUNES / NUEVE",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493512474193",
+    "refSerialize": "6fac32c5ec501c5f525c3915b7ca57da"
+  },
+  {
+    "ref": "c678438f-9b6d-4609-b774-101a41d703cf",
+    "keyword": null,
+    "answer": "LUNES / DOCE",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493512474193",
+    "refSerialize": "a88a6e911a7775b8f18e86e5842bfff1"
+  },
+  {
+    "ref": "1cde57e2-5d0f-49a7-af7c-6f0b62b59549",
+    "keyword": null,
+    "answer": "MARTES / NUEVE",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5493512474193",
+    "refSerialize": "858deeb4a811209b600c3c813e1f064c"
+  },
+  {
+    "ref": "ans_24279688-be43-4c2a-a3b6-90c7b6dc1eb5",
+    "keyword": "ans_0f7178e5-5799-4462-ab14-cb4046139ad6",
+    "answer": "Selecciona un turno escribiendo su codigo",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "19ad4466bae74a476600874b41b444e3",
+    "from": "5493512474193"
+  },
+  {
+    "ref": "214886e0-0caf-42f2-b4d1-ba0aef54dcf8",
+    "keyword": "19ad4466bae74a476600874b41b444e3",
+    "answer": "sd",
+    "options": {},
+    "from": "5493512474193",
+    "refSerialize": "36d8159567be60e4368d7dd8f7ce2619"
+  }
+]
